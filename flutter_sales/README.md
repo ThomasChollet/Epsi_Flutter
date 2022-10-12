@@ -1,6 +1,5 @@
 # flutter_sales
 
-Better Amazon in Flutter
 
 ## Getting Started
 
